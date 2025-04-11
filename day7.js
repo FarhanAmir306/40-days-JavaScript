@@ -71,6 +71,9 @@ function rpsGame(){
 }
 // rpsGame()
 
+
+
+
 // 1. user input
 // 2. computer choice
 // 3. random number
