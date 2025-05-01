@@ -23,7 +23,9 @@ const person = {
     }
 };
 
-const { name, company: { location: { city } } } = person;
+
+
+const { name, company: { location,{ location: {city} } } } = person;
 
 
 
